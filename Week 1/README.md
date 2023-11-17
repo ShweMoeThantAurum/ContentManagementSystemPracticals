@@ -1,6 +1,8 @@
 # Content Management System Practical Week 1 Content Explanation & Learning Journey 
 
 Name: Shwe Moe Thant
+
+
 Student ID: 14228423
 
 This is to give brief understanding about my startup business and its S.M.A.R.T goals, and learning journey for week 1 
