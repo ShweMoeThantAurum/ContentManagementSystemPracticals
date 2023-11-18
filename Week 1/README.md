@@ -24,15 +24,12 @@ providing not just tours but meaningful experiences that leave a lasting impress
 Singapore's culture and heritage. Our commitment to exceptional service and the desire to create unforgettable moments 
 for every tourist define our mission.
 
-* Specific: 
+* Specific: Develop an enticing and informative website that highlights local tours, attractions, and unique experiences
+in Singapore. Include clear contact information and a user-friendly interface for tourists to reach out easily.
+
+* Measurable: Set qualitative metrics to gauge increased engagement and contact from tourists:
 
 
-Develop an enticing and informative website that highlights local tours, attractions, and unique experiences in 
-Singapore. Include clear contact information and a user-friendly interface for tourists to reach out easily.
-
-* Measurable: 
-
-Set qualitative metrics to gauge increased engagement and contact from tourists:
 Increase the number of inquiries or contact form submissions from tourists by 50% within six months after the website launch.
 Aim for positive feedback or testimonials from at least 20% of tourists who've used the contact information to inquire about tours within the first year.
 
@@ -42,16 +39,14 @@ Aim for positive feedback or testimonials from at least 20% of tourists who've u
 Implement effective SEO strategies and engaging content to attract more visitors to the website.
 Provide responsive customer service to inquiries to encourage tourists to engage and book tours.
 
-* Relevant: 
+* Relevant:Align the website's design and content to encourage tourists to take action and contact the tour guides:
 
 
-Align the website's design and content to encourage tourists to take action and contact the tour guides:
 Create compelling and informative tour descriptions, accompanied by captivating visuals, to prompt tourists to want more information or book tours.
 
-* Time-bound: 
+* Time-bound: Set a timeframe to achieve increased engagement and contact with tourists:
 
 
-Set a timeframe to achieve increased engagement and contact with tourists:
 Aim to achieve the targeted increase in inquiries within six months from the website launch date.
 Regularly analyze website analytics to track engagement and adjust strategies if needed to meet the set goals.
 ## Learning Journey for Week 1
