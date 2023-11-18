@@ -11,7 +11,7 @@ including learning activities & resources, estimated hours, content insights and
 ## Content Explanation
 ### Explanation about my startup business and its S.M.A.R.T goals
 
-My startup business offers an immersive and personalized experience for tourists visiting Singapore. Through the 
+&nbsp; My startup business offers an immersive and personalized experience for tourists visiting Singapore. Through the 
 website, I will showcase a diverse array of meticulously curated local tours, each designed to unveil the hidden gems 
 and unique cultural, historical, and natural attractions of Singapore. From historical landmarks to breathtaking 
 landscapes, my tour website cater to various interests and preferences, ensuring an enriching experience for every
