@@ -32,8 +32,8 @@ in Singapore. Include clear contact information and a user-friendly interface fo
   * Aim for positive feedback or testimonials from at least 20% of tourists who've used the contact information to inquire about tours within the first year.
 
 * **Achievable:** Ensure that the goals are realistic and attainable within the context of your website and local tourism:
- * Implement effective SEO strategies and engaging content to attract more visitors to the website. 
- * Provide responsive customer service to inquiries to encourage tourists to engage and book tours.
+  * Implement effective SEO strategies and engaging content to attract more visitors to the website.
+  * Provide responsive customer service to inquiries to encourage tourists to engage and book tours.
 
 * **Relevant:** Align the website's design and content to encourage tourists to take action and contact the tour guides:
   * Create compelling and informative tour descriptions, accompanied by captivating visuals, to prompt tourists to want more information or book tours.
