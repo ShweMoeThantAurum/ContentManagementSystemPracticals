@@ -11,7 +11,7 @@ including learning activities & resources, estimated hours, content insights and
 ## Content Explanation
 ### Explanation about my startup business and its S.M.A.R.T goals
 
-&nbsp;&nbsp;&nbsp;&nbsp; My startup business offers an immersive and personalized experience for tourists visiting 
+My startup business offers an immersive and personalized experience for tourists visiting 
 Singapore. Through the website, I will showcase a diverse array of meticulously curated local tours, each designed to 
 unveil the hidden gems and unique cultural, historical, and natural attractions of Singapore. From historical landmarks 
 to breathtaking landscapes, my tour website cater to various interests and preferences, ensuring an enriching experience
@@ -52,9 +52,9 @@ needed to create a website by using HTML and CSS, I revised CP1406, which is Web
 also studied w3schools website to revise some specific areas or things I wanted to use in my website. Next, I watched 
 one LinkedIn Learning video so that I can apply advanced and interactive designs,i.e.,css in my website. 
 
-* [LinkedIn Learning Video I watched] (https://www.linkedin.com/learning/css-essential-training-22688362/getting-started-with-css?u=2223545) 
-* [w3schools website I used to revise my knowledge about html & css] (https://www.w3schools.com/html/default.asp)
-* [JCU's Web Design and Development subject] (https://learn.jcu.edu.au/ultra/courses/_168839_1/outline)
+* [LinkedIn Learning Video I watched](https://www.linkedin.com/learning/css-essential-training-22688362/getting-started-with-css?u=2223545) 
+* [w3schools website I used to revise my knowledge about html & css](https://www.w3schools.com/html/default.asp)
+* [JCU's Web Design and Development subject](https://learn.jcu.edu.au/ultra/courses/_168839_1/outline)
 
 ### Estimated hours
 
