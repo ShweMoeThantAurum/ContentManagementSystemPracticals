@@ -74,12 +74,12 @@ and content creation to resonate effectively with a different demographic.
 ### Career/Employability/Learning Insights
 
 
-* **Career/Employability** Exploring Joomla's functionalities and tailoring content for a different demographic offered a practical 
+* **Career/Employability:** Exploring Joomla's functionalities and tailoring content for a different demographic offered a practical 
 demonstration of adaptability and versatility in digital content creation. This experience highlighted the 
 importance of versatility in catering to diverse audience needs, a crucial skill in a dynamic professional landscape.
 Moreover, the conscious choice to create content specifically for older individuals underscored the significance of 
 market segmentation and targeted marketing, pivotal aspects in career growth and market positioning.
-*  **Learning Insights** The immersion into Joomla through LinkedIn Learning and YouTube unveiled the power of 
+*  **Learning Insights:** The immersion into Joomla through LinkedIn Learning and YouTube unveiled the power of 
 self-directed learning in acquiring new skills. This experience reinforced the value of utilizing diverse learning 
 resources and platforms to foster a comprehensive understanding of a new tool or technology. Additionally, 
 the deliberate approach to learning at one's pace showcased the significance of balance between efficiency and depth in skill acquisition.
