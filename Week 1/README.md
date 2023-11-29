@@ -1,4 +1,4 @@
-# Content Management System Practical Week 1 Content Explanation & Learning Journey 
+# Explaining the Content and Learning Journey for Content Management System Practical Week 1
 
 Name: Shwe Moe Thant
 
