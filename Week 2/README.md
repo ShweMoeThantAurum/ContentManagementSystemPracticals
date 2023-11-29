@@ -13,7 +13,7 @@ an in-depth explanation of the content and the specific S.M.A.R.T. goals associa
 ## Content Explanation
 ### Explanation about the website and its S.M.A.R.T goals
 
-My initial website from week 1 focused on connecting tourists with local guides, but it was predominantly tailored for 
+[My initial website from week 1](https://shwemoethantaurumwebsite.on.drv.tw/www.toursg.sg/) focused on connecting tourists with local guides, but it was predominantly tailored for 
 younger users. To address this, I've developed a parallel site targeting older demographics. This Week 2 project aims 
 to offer valuable resources customized for the interests and requirements of older people. The site will encompass:
 
