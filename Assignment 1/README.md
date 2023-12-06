@@ -5,7 +5,9 @@ Name: Shwe Moe Thant
 
 Student ID: 14228423
 
-## Content Explanation for the **WordPress** website
+## Content Explanation for Assignment 1
+
+### Content Explanation for the **WordPress** website
 
 I aim to provide an overview of my business idea for a WordPress website, detailing its S.M.A.R.T. goals, the learning
 journey involved in creating this website, including learning activities, resources, estimated hours, content insights, 
@@ -45,13 +47,43 @@ and educational resources.
 * **Time-bound:** Launch a user feedback survey within two months to gather insights on user preferences and improve content
 and website usability.
 
+### Content Explanation for the **Joomla** website
+
+I intend to provide an overview of my business concept for a Joomla website, including its S.M.A.R.T. goals, 
+the learning journey involved in creating this website, including learning activities, resources, estimated hours, 
+content insights, and the career, employability, and learning insights gained from this process.
+
+#### Explanation about my business idea for the **Joomla** website and its S.M.A.R.T goals
+
+The website aims to serve as an extensive cooking guideline platform tailored specifically for beginners in 
+the culinary world. Focused on simplifying the complexities of cooking, it will offer categorized guides, 
+step-by-step instructions, and a variety of recipes. The main categories, such as Asian Cuisine, Chinese Cuisine, 
+and European Cuisine, will house comprehensive content ranging from basic techniques to specific regional cuisines, 
+fostering confidence and skill development among novice cooks.
+
+* **Specific:** Develop and curate 500 comprehensive cooking guides and recipes categorized into at least five distinct
+culinary categories within the first 12 months of the website launch.
+
+  
+* **Measurable:** Achieve a monthly user base of 50,000 active visitors by the end of the second year encouraging engagement
+through comments, forum participation, and recipe sharing.
+
+* **Achievable:** Collaborate with a minimum of 10 recognized chefs or culinary experts within the first six months to contribute
+exclusive content, enriching the website's credibility and diversity of knowledge.
+
+* **Relevant:** Maintain an engaging blog section with weekly updates covering trending culinary topics, cooking hacks, and 
+user-requested content, ensuring relevance and sustained user interest.
+
+* **Time-bound:** Establish a robust social media presence across major platforms, reaching a combined total of 10,000 followers
+within the initial three months to drive and raise awareness of the website.
+
 ## Learning Journey for Assignment 1
 
 This assignment needs to create two different website by using two different Content Management System CMS tools, WordPress 
 and Joomla. Hence, I will write learning journey for creating the WordPress website and learning journey for creating
 the Joomla website separately.
 
-## Learning Journey for the **WordPress** website
+### Learning Journey for the **WordPress** website
 
 #### Learning Activities & Resources
 
@@ -90,38 +122,6 @@ layouts, arranging content blocks, and optimizing user experiences within the Wo
 for aesthetically pleasing and functional web designs. In essence, delving into WordPress development for the perfume 
 website has been a gateway to acquiring valuable skills, understanding web structures, and enhancing problem-solving 
 abilities—a foundation that contributes significantly to my career adaptability and growth.
-
-
-
-## Content Explanation for the **Joomla** website
-
-I intend to provide an overview of my business concept for a Joomla website, including its S.M.A.R.T. goals, 
-the learning journey involved in creating this website, including learning activities, resources, estimated hours, 
-content insights, and the career, employability, and learning insights gained from this process.
-
-#### Explanation about my business idea for the **Joomla** website and its S.M.A.R.T goals
-
-The website aims to serve as an extensive cooking guideline platform tailored specifically for beginners in 
-the culinary world. Focused on simplifying the complexities of cooking, it will offer categorized guides, 
-step-by-step instructions, and a variety of recipes. The main categories, such as Asian Cuisine, Chinese Cuisine, 
-and European Cuisine, will house comprehensive content ranging from basic techniques to specific regional cuisines, 
-fostering confidence and skill development among novice cooks.
-
-* **Specific:** Develop and curate 500 comprehensive cooking guides and recipes categorized into at least five distinct
-culinary categories within the first 12 months of the website launch.
-
-  
-* **Measurable:** Achieve a monthly user base of 50,000 active visitors by the end of the second year encouraging engagement
-through comments, forum participation, and recipe sharing.
-
-* **Achievable:** Collaborate with a minimum of 10 recognized chefs or culinary experts within the first six months to contribute
-exclusive content, enriching the website's credibility and diversity of knowledge.
-
-* **Relevant:** Maintain an engaging blog section with weekly updates covering trending culinary topics, cooking hacks, and 
-user-requested content, ensuring relevance and sustained user interest.
-
-* **Time-bound:** Establish a robust social media presence across major platforms, reaching a combined total of 10,000 followers
-within the initial three months to drive and raise awareness of the website.
 
 ### Learning Journey for the **Joomla** website
 
