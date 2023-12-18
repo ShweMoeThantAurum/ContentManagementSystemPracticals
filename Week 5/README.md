@@ -16,9 +16,10 @@ estimated hours, content insights and career/employability/learning insights.
 The Week 5's practical instructs to change at least 6 visible customizations. Here is a look at the changes I made to the 
 website's style.
 
-* **Thicker Underlines:** I made the underlines of links a bit thicker ('text-decoration-thickness: 1.5px') and adjusted their 
+* **Thicker Underlines & Red Links on Hover:** I made the underlines of links a bit thicker ('text-decoration-thickness: 1.5px') and adjusted their 
 position slightly ('text-underline-offset: 0.15em') to make them more noticeable and better aligned. 
-* **Red Links on Hover:** When you hover over or click on a link ('a:hover', 'a:focus'), I changed its color to red ('color: red'). This
+* **Red Links on Navigation:** When you hover over or click on a link ('wp-block-navigation', 'wp-block-navigation-item a:hover',
+'wp-block-navigation', 'wp-block-navigation-item a:focus'), I changed its color to red ('color: red'). This
 gives a clear visual cue that you are interacting with it. 
 * **Bigger Text:** The main text on the website now appears larger ('font-size: 32px') to make it more prominent and easier to read.
 * **Blue Text Color:** I switched the color of most text to blue ('color: blue') for a more calming and distinct look. 
