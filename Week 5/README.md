@@ -21,8 +21,8 @@ position slightly ('text-underline-offset: 0.15em') to make them more noticeable
 * **Red Links on Navigation:** When you hover over or click on a link ('wp-block-navigation', 'wp-block-navigation-item a:hover',
 'wp-block-navigation', 'wp-block-navigation-item a:focus'), I changed its color to red ('color: red'). This
 gives a clear visual cue that you are interacting with it. 
+* **Blue Text Color:** I switched the color of most text to blue ('color: blue') for a more calming and distinct look.
 * **Bigger Text:** The main text on the website now appears larger ('font-size: 32px') to make it more prominent and easier to read.
-* **Blue Text Color:** I switched the color of most text to blue ('color: blue') for a more calming and distinct look. 
 * **Orange Links:** All the links ('a' tags) now have an orange color ('color: orange') to maintain consistency and make them stand out.
 * **Light Gray Background:** The background color is now a soft, light gray ('background-color: lightgray') to create a subtle
 backdrop that does not distract from the content but complements the overall design.
