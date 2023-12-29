@@ -5,7 +5,7 @@ Name: Shwe Moe Thant
 
 Student ID: 14228423
 
-This is to give brief understanding about learning journey for week 5 including learning activities & resources, 
+This is to give brief understanding about learning journey for week 6 including learning activities & resources, 
 estimated hours, content insights and career/employability/learning insights.
 
 
@@ -13,35 +13,48 @@ estimated hours, content insights and career/employability/learning insights.
 
 ### Learning Activities & Resources
 
-The Week 5's practical instructs to change at least 6 visible customizations. Here is a look at the changes I made to the 
-website's style.
+The Week 6's practical instructs to form a group and then to prepare for assignment 2 Project. Since this is a group project,
+we need to communicate each other and have project management. In that case, we need to do project management tools to get
+version controls by our team. The project management tools we use are as follows:
+1. [GitHub Repository](https://github.com/ShweMoeThantAurum/ContentManagementSystemGroupAssignmentTeam6)
+2. [Trello](https://trello.com/b/K4nnWSkQ/team-6)
+3. [Slack](https://join.slack.com/t/namethegroup/shared_invite/zt-29hsfnftw-c_owSNMwG86oE4wNrx7dtQ)
 
-* **Thicker Underlines & Red Links on Hover:** I made the underlines of links a bit thicker ('text-decoration-thickness: 1.5px') and adjusted their 
-position slightly ('text-underline-offset: 0.15em') to make them more noticeable and better aligned. 
-* **Red Links on Navigation:** When you hover over or click on a link ('wp-block-navigation', 'wp-block-navigation-item a:hover',
-'wp-block-navigation', 'wp-block-navigation-item a:focus'), I changed its color to red ('color: red'). This
-gives a clear visual cue that you are interacting with it. 
-* **Blue Text Color:** I switched the color of most text to blue ('color: blue') for a more calming and distinct look.
-* **Bigger Text:** The main text on the website now appears larger ('font-size: 32px') to make it more prominent and easier to read.
-* **Orange Links:** All the links ('a' tags) now have an orange color ('color: orange') to maintain consistency and make them stand out.
-* **Light Gray Background:** The background color is now a soft, light gray ('background-color: lightgray') to create a subtle
-backdrop that does not distract from the content but complements the overall design.
 
 ### Estimated hours
 
-I spend half a day to finish this practical. 
+Our team did four meetings to finish this practical. A meeting took roughly around 30 minutes. So, basically, I spent 
+around 2 hours to finish this practical, including installing and setting up project management tool. Here is the overview of our meetings:
+#### First Meeting's Summary - Business Objective and Ideation Session:
+During the first meeting, the team kicked off the project with introductions and a discussion of roles. The primary focus
+was on defining the core business objective, and through a collaborative brainstorming session, various ideas were explored.
+A SWOT analysis and affinity mapping exercise helped organize these thoughts. By the end of the day, the team had a clearer understanding
+of the business goal and the challenges and opportunities associated with it.
+
+#### Second Meeting's Summary - Content Strategy and Website Structure: 
+The second meeting delved into content strategy and the structure of the DIY Hub. The team identified and finalized content categories,
+ensuring they align with user needs. A workshop continued the ideation session, fleshing out features, content, and interactive elements.
+User personas were refined, empathy mapping was conducted, and the business objective was solidified based on the insights gained.
+The team collaboratively sketched the initial website structure, setting the foundation for an engaging user experience.
+
+#### Third Meeting's Summary - Monetization Strategies and Business Model: 
+Monetization strategies took center stage on day three, as the team explored different avenues for sustaining the DIY Hub.
+Workshops on value propositions for advertisers and the overall business model helped align financial goals with user experience.
+The day concluded with a solid understanding of how the platform would generate revenue while staying true to its mission.
+ 
+#### Fourth Meeting's Summary - Technology Stack and Development Workflow: 
+The fourth meeting focused on the technical aspects of the DIY Hub. The team conducted workshops to determine the technology stack,
+choosing tools and platforms that align with project goals. Discussions on the collaborative coding workflow and roles within the development
+team ensured a smooth development process. By the end of the day, the team had a clear plan for the technological foundation of the DIY Hub.
+
+If you want to look at daily stand-up meetings in details, follow [this link](https://miro.com/welcomeonboard/OU00RWc1eENZeWJUbnd0aktVVmlBeVhWZERtcWIwVUo2azM3Y3R4ekZEZjVNbnpsUHRjZE1POUUzQTdnS25xYnwzNDU4NzY0NTQxOTQyODkzMzQwfDI=?share_link_id=742523266315).
 
 ### Content Insights 
 
-These changes in the website's style were not just about altering colors and sizes. Each tweak aimed to enhance the user's
-experience. Thicker underlines and vibrant hover colors were like highlighting key attractions, making navigation more engaging.
-Bigger text and calming blue hues drew attention to vital details. Consistent, vibrant link colors acted as markers, ensuring  a 
-seamless flow. The soft, lightgray background set the stage, subtly enhancing the entire experience without overshadowing the content.
-These changes align with my dedication to crafting an enticing platform. 
+Using those kinds of project management tools help me understand about how staffs actually work in the modern industry and why 
+version controls are important in project management for working as a team in the industry.
 
 ### Career/Employability/Learning Insights
 
-In the process of changing my website style, I've revised CSS a bit through w3schools. While my immediate career path 
-might not heavily involve front-end or back-end development or intricate aspects, the exposure to these concepts broadens 
-my understanding of how the websites are designed. Even though these aspects might not be my primary focus, 
-they enrich my skill set and contribute to a more well-rounded understanding of deploying websites.
+I learned how to use Trello, Slack, GitHub. It provides better understanding of how group works in the modern industry work. 
+I will also apply those project management tools for my personal use, as well, in the future.
