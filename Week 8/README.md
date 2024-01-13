@@ -114,7 +114,10 @@ Among the most enriching aspects of this project is the exposure to group work d
 such as Zar Chi Oo, Myat Pwint Phyu, and Kaung Sat Paing has introduced a diverse range of skills and perspectives. 
 This collaborative experience has imparted lessons on effective communication, task allocation, and mutual support in attaining project 
 objectives. It emphasizes that successful web development is not solely about individual technical prowess but also about cohesive teamwork. 
-In summary, this project has served as a multifaceted learning journey. From mastering technical intricacies like WordPress workflows and coding practices to making critical decisions such as hosting selection and navigating the dynamics of group collaboration, each facet has contributed to my evolution as a web developer. This experience has not only broadened my technical toolkit but has also cultivated a holistic understanding of the interconnected elements that contribute to the success of web development projects.
+In summary, this project has served as a multifaceted learning journey. From mastering technical intricacies like WordPress workflows
+and coding practices to making critical decisions such as hosting selection and navigating the dynamics of group collaboration,
+each facet has contributed to my evolution as a web developer. This experience has not only broadened my technical toolkit 
+but has also cultivated a holistic understanding of the interconnected elements that contribute to the success of web development projects.
 
 
 
